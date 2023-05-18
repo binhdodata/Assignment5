@@ -1,0 +1,19 @@
+Observations/Inferences:
+
+Tumor Volume Reduction: The analysis of the data shows that the drug regimen Capomulin demonstrated a significant reduction in tumor volume over the course of the study. 
+This is evident from the line plot showing tumor volume vs. time point for a mouse treated with Capomulin. 
+The tumor volume consistently decreased over time, indicating the effectiveness of Capomulin in treating SCC.
+
+Gender Distribution: The distribution of female and male mice in the study was relatively balanced. 
+The pie charts depicting the distribution of female versus male mice showed similar proportions, indicating that the gender distribution was not a significant factor in the study's results.
+
+Outliers in Tumor Volume: The box plot displaying the final tumor volume for different treatment regimens identified potential outliers for the drug regimen Infubinol. 
+The plot revealed a single data point that fell below the lower bound, suggesting a potential anomaly or error in the measurement. 
+Further investigation is required to determine the cause of this outlier and its impact on the study results.
+
+These observations provide insights into the effectiveness of Capomulin in reducing tumor volume, the gender distribution of the study population, and the presence of potential outliers in the tumor volume data.
+
+
+
+
+
